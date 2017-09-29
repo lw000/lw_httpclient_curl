@@ -32,6 +32,7 @@
 									<listOptionValue builtIn="false" value="/usr/include/c++/4.8.5"/>
 									<listOptionValue builtIn="false" value="/usr/include"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/lw_httpclient_curl/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/lw_common/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.335616800" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
