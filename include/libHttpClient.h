@@ -1,7 +1,7 @@
 #ifndef __LIB_HTTPCLIENT_H__
 #define __LIB_HTTPCLIENT_H__
 
-#ifdef TRDAHTTPCLIENT_EXPORTS
+#ifdef LW_HTTPCLIENT_EXPORTS
 #	ifdef __WIN32
 #		define EXPORTS_API __declspec(dllexport)
 #	else
